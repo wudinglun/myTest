@@ -3,7 +3,7 @@ package myTest;
 public class student {
 	@Override
 	public String toString() {
-		return "student [name=" + name + ", age=" + age + ", id=" + id + "]";
+		return "student  [name=" + name + ", age=" + age + ", id=" + id + "]";
 	}
 	private String name;
 	private String age;

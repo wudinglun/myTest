@@ -17,7 +17,7 @@ public class Test {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("½áÊø");
+		System.out.println("½áÊø2");
 	}
 
 }
